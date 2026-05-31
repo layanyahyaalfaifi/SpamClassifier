@@ -2,7 +2,6 @@
 
 A multimodal spam detection system that classifies emails as spam or not spam — from both typed text and voice input. Built with Naïve Bayes and OpenAI Whisper for speech-to-text transcription.
 
-🔗 **Live Demo:** [spam-audio-app on Streamlit](https://spam-audio-app-ejqhhtygiqjjxaw8pswt4d.streamlit.app/)
 
 ---
 
